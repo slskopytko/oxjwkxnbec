@@ -1,0 +1,4 @@
+- pipeline: tnicvqfcit
+  refs:
+  - refs/heads/master
+  on: CLICK
